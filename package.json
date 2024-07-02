@@ -1,0 +1,20 @@
+{
+  "name": "emptybot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [],
+  "author": "Shubiik",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.4.0",
+    "@discordjs/rest": "^1.5.0",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.37.35",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.0.3"
+  }
+}
